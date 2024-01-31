@@ -13,7 +13,7 @@ Before running this project, you'll need Node.js and npm installed. You can down
 Clone the repository and install its dependencies.
 
 ```bash
-git clone https://github.com/viditry/project-name.git
+git clone https://github.com/viditry/booBackEnd.git
 cd project-name
 npm install
 Running the Application
